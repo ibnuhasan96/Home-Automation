@@ -8,18 +8,21 @@ SOURCE: https://www.youtube.com/watch?v=vE1-pvZk9DA
 
 3. Install the ssh file with no extension on the boot raspbian image(after booting with etcher software) steps: 
 
-  a) open cmd on window
+    a) open cmd on window
   
-  b) navigate to image raspbian boot file 
+    b) navigate to image raspbian boot file 
+  
     cd 
     
-  c)type the drive for the booted file and hit enter 
+    c)type the drive for the booted file and hit enter 
+  
     ex: f: 
     
-  d) type echo and hit enter 
+   d) type echo and hit enter 
+  
     ex: f:\echo >>ssh 
 
-  e)check the boot image drive for ssh file
+    e)check the boot image drive for ssh file
   
  4. Install putty terminal on the windows to access Raspbian OS.
  
