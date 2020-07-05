@@ -16,5 +16,9 @@ SOURCE: https://www.youtube.com/watch?v=vE1-pvZk9DA
     ex: f:\echo >>ssh 
 
   e)check the boot image drive for ssh file
+  
+ 4. Install putty terminal on the windows to access Raspbian OS.
+ 
+ 
 DONE!!
-4. Install putty terminal on the windows to access Raspbian OS.
+
