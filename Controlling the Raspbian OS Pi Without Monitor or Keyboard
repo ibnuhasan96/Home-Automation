@@ -1,0 +1,11 @@
+1. To ensure vnc server running automatically after boot up,
+  
+  a. type
+     sudo nano /etc/rc.local
+
+  b. Between fi and exit 0; type
+
+    su - pi -c'/usr/bin/vncserver :'
+   
+   then save and exit
+   
