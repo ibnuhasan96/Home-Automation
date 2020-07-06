@@ -1,11 +1,20 @@
-1. To ensure vnc server running automatically after boot up,
+1. Installing the vnc server; type
+  
+  sudo apt-get install tightvncserver
+  
+2. Check vnc server is running or not; type
+  
+   vncserver :1
+
+3. To ensure vnc server running automatically after boot up,
   
   a. type
+  
      sudo nano /etc/rc.local
 
   b. Between fi and exit 0; type
 
     su - pi -c'/usr/bin/vncserver :'
    
-   then save and exit
+   then press cntrl+X (exit and save) 
    
