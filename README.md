@@ -1,4 +1,4 @@
-# Home-Automation
+# Home-Automations
 ** HOW TO CONTROL AND INSTALL HEEDLESS RASPBERRYPI 4 AND ACCESS IT WITH PUTTY
 
 1. Download raspbian image (Raspberry Pi OS) link: https://www.raspberrypi.org/downloads/raspberry-pi-os/
