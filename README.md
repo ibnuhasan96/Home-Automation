@@ -29,5 +29,10 @@
  
     sudo raspi-config
  
+ 6. Checking whether the raspberry pi is connect to internet using IP address
+ 
+    ping raspberrypi @ ping YOURipADDRESSS
+    
+   
 DONE!!
 
