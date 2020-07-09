@@ -25,6 +25,9 @@
   
  4. Install putty terminal on the windows to access Raspbian OS.
  
+ 5. Configure Raspbian OS on putty, type
+ 
+    sudo raspi-config
  
 DONE!!
 
