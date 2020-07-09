@@ -1,7 +1,6 @@
 # Home-Automation
 ** HOW TO CONTROL AND INSTALL HEEDLESS RASPBERRYPI 4 AND ACCESS IT WITH PUTTY
 
-SOURCE: https://www.youtube.com/watch?v=vE1-pvZk9DA
 1. Download raspbian image (Raspberry Pi OS) link: https://www.raspberrypi.org/downloads/raspberry-pi-os/
 
 2. Download the etcher software to mount the raspbian image on the sd card link: https://www.balena.io/etcher/
