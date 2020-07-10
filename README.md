@@ -1,4 +1,12 @@
 # Home-Automations
+Objectives: 
+1. To grasp the knowledge of Internet of Things (IoT)
+2. To install and control the heedless Linux servers (Raspbian OS/ Virtual Linux on Windows)
+3. To learn the data acquisition systems of the database such as MySQL
+4. To implement the hardware systems of the sensors and actuators for the practicality approaches
+5. To apply the dashboarding and visualisations of the data acquisition using Grafana software. 
+
+
 ** HOW TO CONTROL AND INSTALL HEEDLESS RASPBERRYPI 4 AND ACCESS IT WITH PUTTY
 
 1. Download raspbian image (Raspberry Pi OS) link: https://www.raspberrypi.org/downloads/raspberry-pi-os/
